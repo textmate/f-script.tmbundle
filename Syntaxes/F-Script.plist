@@ -6,10 +6,6 @@
 	<array>
 		<string>fscript</string>
 	</array>
-	<key>foldingStartMarker</key>
-	<string>\[</string>
-	<key>foldingStopMarker</key>
-	<string>\]</string>
 	<key>keyEquivalent</key>
 	<string>^~F</string>
 	<key>name</key>
